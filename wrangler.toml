@@ -1,0 +1,7 @@
+name = "visitor-logger"
+compatibility_date = "2024-04-01"
+
+[[kv_namespaces]]
+binding = "VISITOR_LOGS"
+id = "27c09ad1bbbc41c9865a2ee758121ec5"
+preview_id = "27c09ad1bbbc41c9865a2ee758121ec5"
